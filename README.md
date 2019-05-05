@@ -1,3 +1,6 @@
+[![Cpan license](https://img.shields.io/cpan/l/Acme-CPANAuthors-Malaysian.svg)](https://metacpan.org/release/Acme-CPANAuthors-Malaysian)
+[![Cpan version](https://img.shields.io/cpan/v/Acme-CPANAuthors-Malaysian.svg)](https://metacpan.org/release/Acme-CPANAuthors-Malaysian)
+
 # NAME
 
 Acme::CPANAuthors::Malaysian - We are Malaysian CPAN authors (Kami para penulis

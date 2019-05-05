@@ -69,6 +69,17 @@
       }
    },
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/kianmeng/acme-cpanauthors-malaysian/issues"
+      },
+      "homepage" : "https://github.com/kianmeng/acme-cpanauthors-malaysian",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/kianmeng/acme-cpanauthors-malaysian.git",
+         "web" : "https://github.com/kianmeng/acme-cpanauthors-malaysian"
+      }
+   },
    "version" : "0.01",
    "x_generated_by_perl" : "v5.28.1",
    "x_serialization_backend" : "JSON::XS version 3.04",
