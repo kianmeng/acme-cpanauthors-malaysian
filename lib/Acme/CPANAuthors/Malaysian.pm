@@ -4,7 +4,7 @@ use 5.008_005;
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use Acme::CPANAuthors::Register (
     KIANMENG => 'Kian Meng, Ang',
