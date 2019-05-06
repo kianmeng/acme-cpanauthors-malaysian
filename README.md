@@ -25,6 +25,7 @@ This module provides a list of Malaysian CPAN author's Pause ID mapped to name
 for [Acme::CPANAuthors](https://metacpan.org/pod/Acme::CPANAuthors).
 
 # MAINTENANCE
+
 Send email, open a ticket, or make a pull request to add your own Pause ID and
 name.
 
